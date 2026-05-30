@@ -9,7 +9,7 @@
 
 ## ✨ Live Demo
 
-👉 **[Open Dashboard](https://YOUR-USERNAME.github.io/bwiw-sales-dashboard/BWIW_Dashboard_v5.html)**
+👉 **[Open Dashboard]([https://YOUR-USERNAME.github.io/bwiw-sales-dashboard/BWIW_Dashboard_v5.html](https://goshamishagar.github.io/BWIW-Sales-Dashboard/))**
 
 ---
 
