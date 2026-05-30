@@ -163,8 +163,10 @@ Pull requests are welcome. For major changes, open an issue first.
 
 ## 👤 Author
 
-**BHAI-BROTHER CORPORATION**  
-🌐 [BHAI-BROTHER.com](http://BHAI-BROTHER.com)
+**SHAGAR GOSHAMI**  
+🌐www.linkedin.com/in/shagar-goshami
+
+
 
 ---
 
